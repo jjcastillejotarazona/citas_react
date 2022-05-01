@@ -1,0 +1,4 @@
+CREAR CODIGO REACT AUTOMÁTICO
+
+escribir rfc en el archivo de jsx
+escribir rafc en el archivo de jsx
